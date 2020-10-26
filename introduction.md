@@ -13,7 +13,7 @@ LICENSE: [MIT](./license.md)
 3. Основы Git
 4. [Командная строка &#10149;](./cmd.md)
 5. [Установка Git &#10149;](./install.md)
-6. [Первоначальная настройка Git &#10149;](./first_setting.md)
+6. [Первая настройка Git &#10149;](./first_setting.md)
 
 ---
 
