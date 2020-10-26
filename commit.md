@@ -1,8 +1,8 @@
 ## Просмотр истории коммитов
 
-LICENSE: [MIT](../license.md)
+LICENSE: [MIT](./license.md)
 
-![git-logo](../assets/logo.svg)
+![git-logo](./assets/logo.svg)
 
 ### **Текст**
 
@@ -47,7 +47,7 @@ LICENSE: [MIT](../license.md)
 
 ---
 
-[вернуться &#8634;](../core/basics.md)
+[вернуться &#8634;](./basics.md)
 
 Git logo by http://git-scm.com/downloads/logos,
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)

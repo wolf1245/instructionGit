@@ -1,8 +1,8 @@
 ## Командная строка
 
-LICENSE: [MIT](../license.md)
+LICENSE: [MIT](./license.md)
 
-![git-logo](../assets/logo.svg)
+![git-logo](./assets/logo.svg)
 
 ### **Текст**
 
@@ -24,7 +24,7 @@ LICENSE: [MIT](../license.md)
 * Существует и 3 способ, [предлогаю ознакомиться тут, где и взята статья](https://remontka.pro/open-command-line-windows-10/)
 ---
 
-[вернуться &#8634;](../core/introduction.md)
+[вернуться &#8634;](./introduction.md)
 
 Git logo by http://git-scm.com/downloads/logos,
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
