@@ -39,6 +39,12 @@ LICENSE: [MIT](../license.md)
 
 ***Читать полностью***[&#10149;](https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2)
 
+Более детально можно ознакомиться в видео:
+
+[#7 Уроки Git+GitHub - Отмена изменений и возврат к другому коммиту](https://www.youtube.com/watch?v=Pl0xwUicJDc&list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH&index=4&ab_channel=ITDoctor)
+
+Видео взято с канала [ITDoctor](https://www.youtube.com/channel/UC2Ev-rDSHBov0ZMChesLfrg) в ознакомительных целях.
+
 ---
 
 [вернуться &#8634;](../core/basics.md)

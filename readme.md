@@ -9,7 +9,7 @@ LICENSE: [MIT](./license.md)
 ### Содержание:
 
 1. [Введение &#10149;](../core/introduction.md)
-2. [Основы Git &#10149;](../core/introduction.md)
+2. [Основы Git &#10149;](../core/basics.md)
 3. [Ветвление Git &#10149;](../core/branching.md)
 
 
